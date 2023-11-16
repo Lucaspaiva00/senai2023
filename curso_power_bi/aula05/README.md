@@ -3,7 +3,7 @@
 ### Temas
 
 - Códigos de Clientes e Setores
-- Orsens de Serviço
+- Ordens de Serviço
 
 ## Funções DAX
 
